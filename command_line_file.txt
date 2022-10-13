@@ -1,0 +1,3 @@
+#What is this for?
+
+Ah, okay, I get it now. The contents of the file - a first line comment - can be added this way.
